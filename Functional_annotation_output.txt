@@ -1,0 +1,440 @@
+Total number of mutations in subject sequence MW520923.1: 49
+Mutations in 5'UTR region:
+Ref	RefPos	Seq	SeqPos
+C	241	T	205
+Mutations in leader protein:
+Ref	RefPos	Seq	SeqPos
+T	733	C	697
+Mutations in nsp3:
+Ref	RefPos	Seq	SeqPos
+C	2749	T	2713
+C	3037	T	3001
+C	3828	T	3792
+A	5648	C	5612
+A	6319	G	6283
+A	6613	G	6577
+Mutations in nsp4:
+Ref	RefPos	Seq	SeqPos
+G	9105	A	9069
+Mutations in 3C-like proteinase:
+Ref	RefPos	Seq	SeqPos
+C	10833	T	10797
+Mutations in nsp6:
+Ref	RefPos	Seq	SeqPos
+T	11288	-	
+C	11289	-	
+T	11290	-	
+G	11291	-	
+G	11292	-	
+T	11293	-	
+T	11294	-	
+T	11295	-	
+T	11296	-	
+Mutations in nsp9:
+Ref	RefPos	Seq	SeqPos
+C	12778	T	12733
+Mutations in RNA-dependent RNA-polymerase:
+Ref	RefPos	Seq	SeqPos
+C	13860	T	13815
+C	14408	T	14363
+Mutations in helicase:
+Ref	RefPos	Seq	SeqPos
+G	17259	T	17214
+Mutations in surface glycoprotein:
+Ref	RefPos	Seq	SeqPos
+C	21614	T	21569
+C	21621	A	21576
+C	21638	T	21593
+G	21974	T	21929
+G	22132	T	22087
+A	22812	C	22767
+G	23012	A	22967
+A	23063	T	23018
+C	23380	T	23335
+A	23403	G	23358
+C	23525	T	23480
+C	24642	T	24597
+G	25088	T	25043
+Mutations in ORF3a protein:
+Ref	RefPos	Seq	SeqPos
+T	26149	C	26104
+Mutations in ORF8 protein:
+Ref	RefPos	Seq	SeqPos
+G	28167	A	28122
+Mutations in nucleocapsid phosphoprotein:
+Ref	RefPos	Seq	SeqPos
+C	28512	G	28471
+A	28877	T	28836
+G	28878	C	28837
+G	28881	A	28840
+G	28882	A	28841
+G	28883	C	28842
+Mutations in 3'UTR region:
+Ref	RefPos	Seq	SeqPos
+T	29834	A	29793
+--------------------------------------------------
+Total number of mutations in subject sequence MW931310.1: 40
+Mutations in 5'UTR region:
+Ref	RefPos	Seq	SeqPos
+G	210	T	175
+C	241	T	206
+Mutations in nsp2:
+Ref	RefPos	Seq	SeqPos
+C	1191	T	1156
+C	1267	T	1232
+Mutations in nsp3:
+Ref	RefPos	Seq	SeqPos
+C	3037	T	3002
+C	5184	T	5149
+Mutations in nsp4:
+Ref	RefPos	Seq	SeqPos
+G	9203	A	9168
+T	9678	C	9643
+Mutations in nsp6:
+Ref	RefPos	Seq	SeqPos
+C	11005	A	10970
+Mutations in RNA-dependent RNA-polymerase:
+Ref	RefPos	Seq	SeqPos
+C	14408	T	14373
+Mutations in helicase:
+Ref	RefPos	Seq	SeqPos
+A	17496	G	17461
+Mutations in EndoRNAse:
+Ref	RefPos	Seq	SeqPos
+A	20396	G	20361
+Mutations in surface glycoprotein:
+Ref	RefPos	Seq	SeqPos
+C	21618	G	21583
+A	21792	C	21757
+A	22029	-	
+G	22030	-	
+T	22031	-	
+T	22032	-	
+C	22033	-	
+A	22034	-	
+T	22917	G	22876
+C	22995	A	22954
+A	23403	G	23362
+C	23604	G	23563
+G	24410	A	24369
+Mutations in ORF3a protein:
+Ref	RefPos	Seq	SeqPos
+C	25469	T	25428
+G	26109	T	26068
+Mutations in membrane glycoprotein:
+Ref	RefPos	Seq	SeqPos
+T	26767	C	26726
+Mutations in ORF7a protein:
+Ref	RefPos	Seq	SeqPos
+T	27638	C	27597
+C	27752	T	27711
+Mutations in ORF8 protein:
+Ref	RefPos	Seq	SeqPos
+C	28253	T	28212
+Mutations in nucleocapsid phosphoprotein:
+Ref	RefPos	Seq	SeqPos
+A	28461	G	28419
+G	28881	T	28839
+G	29402	T	29360
+Mutations in 3'UTR region:
+Ref	RefPos	Seq	SeqPos
+G	29742	T	29700
+--------------------------------------------------
+Total number of mutations in subject sequence MW422256.1: 104
+Mutations in 5'UTR region:
+Ref	RefPos	Seq	SeqPos
+C	241	T	211
+Mutations in nsp2:
+Ref	RefPos	Seq	SeqPos
+C	913	T	883
+C	1059	T	1029
+Mutations in nsp3:
+Ref	RefPos	Seq	SeqPos
+C	3037	T	3007
+C	3267	T	3237
+C	5388	A	5358
+C	5986	T	5956
+T	6954	C	6924
+A	7142	N	7112
+G	7160	N	7130
+C	7203	N	7173
+T	7204	N	7174
+C	7221	N	7191
+T	7222	N	7192
+G	7223	N	7193
+C	7224	N	7194
+T	7225	N	7195
+T	7226	N	7196
+T	7227	N	7197
+T	7228	N	7198
+G	7229	N	7199
+A	7234	N	7204
+C	7239	N	7209
+G	7241	N	7211
+A	7255	N	7225
+C	7262	N	7232
+C	7267	N	7237
+T	7270	N	7240
+A	7285	N	7255
+Mutations in nsp4:
+Ref	RefPos	Seq	SeqPos
+T	9279	N	9249
+A	9280	N	9250
+C	9281	N	9251
+T	9282	N	9252
+T	9283	N	9253
+C	9286	N	9256
+A	9310	N	9280
+A	9313	N	9283
+C	9333	N	9303
+G	9335	N	9305
+T	9336	N	9306
+A	9343	N	9313
+C	9344	N	9314
+T	9349	N	9319
+C	9365	N	9335
+T	9366	N	9336
+C	9375	N	9345
+T	9376	N	9346
+C	9384	N	9354
+C	9474	N	9444
+T	9475	N	9445
+T	9812	N	9782
+Mutations in nsp6:
+Ref	RefPos	Seq	SeqPos
+t	11075	N	11045
+T	11288	-	
+C	11289	-	
+T	11290	-	
+G	11291	-	
+G	11292	-	
+T	11293	-	
+T	11294	-	
+T	11295	-	
+T	11296	-	
+Mutations in RNA-dependent RNA-polymerase:
+Ref	RefPos	Seq	SeqPos
+C	14408	T	14369
+C	14676	T	14637
+T	15096	C	15057
+C	15279	T	15240
+T	16176	C	16137
+Mutations in surface glycoprotein:
+Ref	RefPos	Seq	SeqPos
+T	21765	-	
+A	21766	-	
+C	21767	-	
+A	21768	-	
+T	21769	-	
+G	21770	-	
+T	21991	-	
+T	21992	-	
+A	21993	-	
+A	23063	T	23015
+C	23271	A	23223
+A	23403	G	23355
+C	23604	A	23556
+C	23709	T	23661
+C	24023	T	23975
+T	24506	G	24458
+A	24673	N	24625
+G	24914	C	24866
+Mutations in membrane glycoprotein:
+Ref	RefPos	Seq	SeqPos
+A	26562	N	26514
+Mutations in ORF7a protein:
+Ref	RefPos	Seq	SeqPos
+C	27686	N	27638
+Mutations in ORF7b protein:
+Ref	RefPos	Seq	SeqPos
+C	27782	N	27734
+Mutations in ORF8 protein:
+Ref	RefPos	Seq	SeqPos
+C	27972	T	27924
+G	28048	T	28000
+A	28095	W	28047
+A	28111	G	28063
+Mutations in nucleocapsid phosphoprotein:
+Ref	RefPos	Seq	SeqPos
+A	28274	-	
+G	28280	C	28231
+A	28281	T	28232
+T	28282	A	28233
+G	28857	T	28808
+G	28881	A	28832
+G	28882	A	28833
+G	28883	C	28834
+C	28977	T	28928
+--------------------------------------------------
+Total number of mutations in subject sequence OM059472.1: 75
+Mutations in 5'UTR region:
+Ref	RefPos	Seq	SeqPos
+C	241	T	187
+Mutations in nsp3:
+Ref	RefPos	Seq	SeqPos
+C	3037	T	2983
+T	5386	G	5332
+G	5515	T	5461
+G	6513	-	
+T	6514	-	
+T	6515	-	
+G	8393	A	8336
+Mutations in nsp4:
+Ref	RefPos	Seq	SeqPos
+C	10029	T	9972
+Mutations in 3C-like proteinase:
+Ref	RefPos	Seq	SeqPos
+C	10449	A	10392
+Mutations in nsp6:
+Ref	RefPos	Seq	SeqPos
+G	11283	-	
+T	11284	-	
+T	11285	-	
+T	11286	-	
+G	11287	-	
+T	11288	-	
+C	11289	-	
+T	11290	-	
+G	11291	-	
+A	11537	G	11471
+Mutations in nsp10:
+Ref	RefPos	Seq	SeqPos
+T	13195	C	13129
+Mutations in RNA-dependent RNA-polymerase:
+Ref	RefPos	Seq	SeqPos
+C	14408	T	14342
+C	15240	T	15174
+Mutations in 3’ to 5’ exonuclease:
+Ref	RefPos	Seq	SeqPos
+A	18163	G	18097
+Mutations in surface glycoprotein:
+Ref	RefPos	Seq	SeqPos
+C	21762	-	
+A	21764	-	
+C	21767	-	
+A	21768	-	
+T	21769	-	
+G	21770	-	
+C	21846	T	21774
+G	21987	-	
+T	21988	-	
+G	21989	-	
+T	21990	-	
+T	21991	-	
+T	21992	-	
+A	21993	-	
+T	21994	-	
+T	21995	-	
+C	23202	A	23121
+A	23403	G	23322
+C	23525	T	23444
+T	23599	G	23518
+C	23604	A	23523
+C	23854	A	23773
+G	23948	T	23867
+C	24130	A	24049
+A	24424	T	24343
+T	24469	A	24388
+C	24503	T	24422
+C	25000	T	24919
+Mutations in ORF3a protein:
+Ref	RefPos	Seq	SeqPos
+C	25584	T	25503
+Mutations in envelope protein:
+Ref	RefPos	Seq	SeqPos
+C	26270	T	26189
+Mutations in membrane glycoprotein:
+Ref	RefPos	Seq	SeqPos
+C	26577	G	26496
+G	26709	A	26628
+Mutations in ORF6 protein:
+Ref	RefPos	Seq	SeqPos
+A	27259	C	27178
+Mutations in nucleocapsid phosphoprotein:
+Ref	RefPos	Seq	SeqPos
+C	28311	T	28230
+G	28362	-	
+A	28363	-	
+G	28364	-	
+A	28365	-	
+A	28366	-	
+C	28367	-	
+G	28368	-	
+C	28369	-	
+A	28370	-	
+G	28703	C	28613
+G	28881	A	28791
+G	28882	A	28792
+--------------------------------------------------
+Total number of mutations in subject sequence MW580576.1: 46
+Mutations in 5'UTR region:
+Ref	RefPos	Seq	SeqPos
+G	174	T	136
+T	201	C	163
+C	241	T	203
+Mutations in nsp2:
+Ref	RefPos	Seq	SeqPos
+C	1059	T	1021
+A	2692	T	2654
+Mutations in nsp3:
+Ref	RefPos	Seq	SeqPos
+C	3037	T	2999
+G	5230	T	5192
+Mutations in 3C-like proteinase:
+Ref	RefPos	Seq	SeqPos
+A	10323	G	10285
+Mutations in nsp6:
+Ref	RefPos	Seq	SeqPos
+T	11288	-	
+C	11289	-	
+T	11290	-	
+G	11291	-	
+G	11292	-	
+T	11293	-	
+T	11294	-	
+T	11295	-	
+T	11296	-	
+Mutations in RNA-dependent RNA-polymerase:
+Ref	RefPos	Seq	SeqPos
+C	14408	T	14361
+Mutations in 3’ to 5’ exonuclease:
+Ref	RefPos	Seq	SeqPos
+G	18090	A	18043
+Mutations in surface glycoprotein:
+Ref	RefPos	Seq	SeqPos
+C	21614	T	21567
+A	21801	C	21754
+A	22206	G	22159
+C	22281	-	
+T	22282	-	
+T	22283	-	
+T	22284	-	
+A	22285	-	
+C	22286	-	
+T	22287	-	
+T	22288	-	
+G	22289	-	
+C	22732	T	22676
+A	22931	A	22875
+C	22982	T	22926
+T	23322	G	23266
+A	23583	T	23527
+Mutations in ORF3a protein:
+Ref	RefPos	Seq	SeqPos
+C	25482	T	25426
+A	25823	T	25767
+T	25825	T	25769
+Mutations in envelope protein:
+Ref	RefPos	Seq	SeqPos
+G	26375	T	26319
+Mutations in ORF8 protein:
+Ref	RefPos	Seq	SeqPos
+T	28172	T	28116
+A	28182	-	
+G	28183	-	
+T	28184	-	
+C	28185	-	
+Mutations in nucleocapsid phosphoprotein:
+Ref	RefPos	Seq	SeqPos
+G	28806	T	28750
+--------------------------------------------------
